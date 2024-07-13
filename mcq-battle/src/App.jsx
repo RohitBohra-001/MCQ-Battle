@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import MainLayout from "./components/layout/main.layout";
-import AppRouter from "./router/Approuter";
+import AppRouter from "./router/AppRouter";
 
 function App() {
   return (
